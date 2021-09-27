@@ -2,6 +2,9 @@
 {
   "name": "react-showcase",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -14,7 +17,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "websocket-extensions": "^0.1.4"
+    "websocket-extensions": "^0.1.4"    
   },
   "scripts": {
     "start": "react-scripts start",
